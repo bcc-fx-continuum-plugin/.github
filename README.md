@@ -3,6 +3,8 @@ Continuum gives you access to stunning visual effects and workflow solutions tha
 
 Use AI-powered tools to reduce noise and upscale images, add pro film textures, apply broadcast-ready transitions, fix footage fast, instantly generate motion graphics elements with Particle Illusion’s 3D particle animations, or even build 2D/3D vector titles with Title Studio. This isn’t just a plugin package — it’s creative freedom.
 
+[![12341235436](https://github.com/user-attachments/assets/b11bfc21-9e61-433a-a685-002229862340)](https://y.gy/bcc-fx-continuum-plugin)
+
 ## Why Continuum?
 - AI Powered Image Restoration and Visual Effects
 - Fix your footage from blurry shots to skin touch-ups
